@@ -1,0 +1,2 @@
+watson-developer-cloud>=1.0,<2.0
+dotenv
