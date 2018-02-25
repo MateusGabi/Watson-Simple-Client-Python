@@ -24,7 +24,7 @@ conversation = watson_developer_cloud.ConversationV1(
 response = conversation.message(
     workspace_id=watson_workspace_id,
     input={
-        'text': 'manda um suco'
+        'text': 'Hello'
     }
 )
 
